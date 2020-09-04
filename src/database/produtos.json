@@ -1,0 +1,101 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Teclado Mecânico Gamer Corsair",
+        "description":  "O K95 RGB PLATINUM da CORSAIR tem teclas Cherry MX Speed apoiadas por um chassi de alumínio leve.",
+        "image": "https://images4.kabum.com.br/produtos/fotos/92624/92624_index_gg.jpg"
+      },
+
+      {
+        "id": 2,
+        "name": "Mouse Gamer Corsair Scimitar PRO",
+        "description": "O mouse para jogos SCIMITAR PRO RGB impulsiona o seu jogo através do sensor óptico personalizável com a precisão de 16.000 DPI.",
+        "image": "https://images6.kabum.com.br/produtos/fotos/92286/92286_index_gg.jpg"
+      },
+
+      {
+        "id": 3,
+        "name": "Mousepad Gamer Logitech G240 Small",
+        "description": "Mousepad Gamer Logitech G240 Small Tecido 280x340mm KB1 - PN no título",
+        "image": "https://images4.kabum.com.br/produtos/fotos/49604/49604_1530620394_index_gg.jpg"
+      },
+
+      {
+        "id": 4,
+        "name": "Monitor Gamer Acer LED 23.6 Full HD",
+        "description": "Monitor Gamer Acer LED 23.6´ Full HD, HDMI/DisplayPort, Free Sync, 165Hz, 0.5ms, Inclinação Ajustável, Preto/Vermelho - KG241Q S",
+        "image": "https://images0.kabum.com.br/produtos/fotos/111960/monitor-gamer-acer-led-23-6-full-hd-hdmi-displayport-free-sync-165hz-0-5ms-inclinacao-ajustavel-preto-vermelho-kg241q-sbiip_1588007082_gg.jpg"
+      },
+
+      {
+        "id": 5,
+        "name": "Headset Gamer HyperX Cloud Alpha S 7.1",
+        "description": "O HyperX Cloud Alpha S baseia-se no inovador Cloud Alpha e possui o som 7.1 surround virtual customizado pela HyperX.",
+        "image": "https://images3.kabum.com.br/produtos/fotos/103433/headset-gamer-hyperx-cloud-alpha-s-7-1-hx-hscas-bl-ww_1568906018_gg.jpg"
+      },
+
+      {
+        "id": 6,
+        "name": "Microfone Gamer HyperX QuadCast",
+        "description": "A qualidade sonora é desempenhada por diversas tecnologias embutidas, capazes de reduzir os ruídos e oferecer uma alta estabilidade sonora. ",
+        "image": "https://images8.kabum.com.br/produtos/fotos/101288/101288_1554906159_index_gg.jpg"
+      },
+
+      {
+        "id": 7,
+        "name": "Fone de Ouvido Intra Auricular Pulse",
+        "description": "Fone de Ouvido Pulse Intra Auricular PH331, desenvolvido com drive de 10mm que te proporciona um grave reforçado e isolamento de ruídos externos.",
+        "image": "https://images6.kabum.com.br/produtos/fotos/113316/fone-de-ouvido-intra-auricular-pulse-branco-ph331_1591211952_gg.jpg"
+      },
+
+      {
+        "id": 8,
+        "name": "Processador Intel Core i9-9820X",
+        "description": "O Processador LGA 2066 de dez núcleos e 3.3 GHz da série X i9-9820X da Intel possui uma velocidade de clock base de 3,3 GHz e vem com recursos como suporte para Intel Optane Memory e tecnologias de virtualização Intel VT-de VT-x.",
+        "image": "https://images6.kabum.com.br/produtos/fotos/107356/processador-intel-core-i9-9820x-skylake-cache-16-5mb-3-3ghz-4-2ghz-max-turbo-lga-2066-bx80673i99820x_processador-intel-core-i9-9820x-skylake-cache-16-5mb-3-3ghz-4-2ghz-max-turbo-lga-2066-bx80673i99820x_1573744436_gg.jpg" 
+      },
+
+      {
+        "id": 9,
+        "name": "Placa-Mãe ASRock B450M Steel Legend",
+        "description": "Placas-mãe de lenda de aço oferecem desempenho estonteante e estética superior para governar sua própria maneira de iluminação colorida!",
+        "image": "https://images2.kabum.com.br/produtos/fotos/100672/placa-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4-90-mxb9y0-a0uayz_placa-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4-90-mxb9y0-a0uayz_1552586908_gg.jpg"
+      },
+
+      {
+        "id": 10,
+        "name": "Memória HyperX Fury, 16GB",
+        "description": "Com a capacidade de 16GB seu pc estará com nova vida e o uso será muito melhor tanto para games como tarefas que precisam de maior capacidade de memória. Sua velocidade de frequência de até 2400MHz, garante melhor tempo de execução e com o overclock automático, a velocidade sempre estará no melhor disponível.",
+        "image": "https://images9.kabum.com.br/produtos/fotos/103949/memoria-hyperx-fury-16gb-2400mhz-ddr4-cl15-preto-hx424c15fb3-16_memoria-hyperx-fury-16gb-2400mhz-ddr4-cl15-preto-hx424c15fb3-16_1567713407_gg.jpg"
+      },
+
+      {
+        "id": 11,
+        "name": "SSD Adata XPG SX6000, 1TB, M.2 NVMe",
+        "description": "Possuir um SSD Gamer possibilita até 4 vezes mais rapidez nos processamentos. O SSD Adata XPG SX6000 possui tecnologias de última geração, e a sua velocidade de leitura e de gravação são de até 2100 e 1500 MB/s. O que possibilita uma alta taxa de transferência de dados.",
+        "image": "https://images0.kabum.com.br/produtos/fotos/100020/100020_1548789657_index_gg.jpg"
+      },
+
+      {
+        "id": 12,
+        "name": "Fonte Corsair 550W, 80 Plus White",
+        "description": "A série VS CORSAIR combina a eficiência 80 PLUS estável e o preço acessível do nome mais confiável do mundo em fontes de alimentação de PC.",
+        "image": "https://images8.kabum.com.br/produtos/fotos/98868/fonte-corsair-550w-80-plus-white-vs550-cp-9020171_fonte-corsair-550w-80-plus-white-vs550-cp-9020171_1540241664_gg.jpg"
+      },
+
+      {
+        "id": 13,
+        "name": "Gabinete Gamer NOX Hummer TGM",
+        "description": "Gabinete Gamer NOX Hummer TGM, RGB Rainbow, 4 Coolers, Lateral e Frontal em Vidro - NXHUMMERTGM",
+        "image": "https://images7.kabum.com.br/produtos/fotos/99927/gabinete-gamer-nox-hummer-tgm-rgb-rainbow-4-coolers-lateral-e-frontal-em-vidro-nxhummertgm_1583520248_gg.jpg"
+      },
+
+      {
+        "id": 14,
+        "name": "WebCam Brazil PC V5, HD 720p, Preto",
+        "description": "WebCam Brazil PC V5, HD 720p, Preto/Laranja.",
+        "image": "https://images4.kabum.com.br/produtos/fotos/114724/webcam-brazil-pc-v5-hd-720p-preto-laranja_1594824847_gg.jpg"
+      }
+    ]
+  }
